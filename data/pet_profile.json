@@ -1,0 +1,19 @@
+{
+  "species": "ウサギ",
+  "breed": "ネザーランドドワーフ",
+  "name": "クロ",
+  "gender": "オス",
+  "age": "4",
+  "color": "黒",
+  "fur_length": "中毛",
+  "ear": "立ち耳",
+  "tail": "短い",
+  "pattern": "その他",
+  "memo": "優しい瞳、艶のある毛並み、穏やかで愛情深い表情",
+  "magic_word": "大好き",
+  "magic_action_free": "クロは愛おしげに私のそばに寄り添い、私の手を優しく舐めてくれます。",
+  "color_free": "艶のある毛並み",
+  "ear_free": "",
+  "tail_free": "黒い小さな尻尾",
+  "pattern_free": ""
+}
